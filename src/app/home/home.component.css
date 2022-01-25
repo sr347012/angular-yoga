@@ -1,0 +1,44 @@
+.center {
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+.flex-wrap{
+    flex-wrap: wrap;
+}
+ul li {
+    list-style: none;
+}
+
+.bgm-header-footer {
+    background: firebrick;
+    color: floralwhite;
+}
+
+.card-effect {
+    border: 1px firebrick solid;
+    border-radius: 10px;
+    box-shadow: firebrick 1px 1px 4px;
+    margin: 3% ;
+    padding: 1%;
+}
+.img-effect {
+    /* border: 1px firebrick solid; */
+    border-radius: 50%;
+    box-shadow: firebrick 4px 4px 20px;
+    padding: 1%;
+    width: 250px;
+    height: 250px;
+}
+
+.flex-50{
+    flex: 50%;
+}
+

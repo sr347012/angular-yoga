@@ -1,0 +1,17 @@
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: burlywood;
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.nav-row-flex {
+    display: flex;
+    /* flex-direction: row; */
+}
+
+.nav-col-flex {
+    flex: auto;
+}
